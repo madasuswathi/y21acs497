@@ -1,6 +1,7 @@
 <html>
 <body>
 <h2><%= "Hello World!" %></h2>
-<p>welcome to bec</p>
+<h2>welcome to bec</h2>
+<p>welcome to cse branch<p>
 </body>
 </html>
